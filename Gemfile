@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Unicorn as the app server
 gem 'unicorn'
 
-gem 'bootstrap', '~> 4.1.0'
+gem 'bootstrap', '~> 4.3.1'
 
 gem "administrate"
 gem "wysiwyg-rails"
